@@ -5,7 +5,7 @@ import android.animation.ValueAnimator;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
+      import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
@@ -47,7 +47,7 @@ import com.crowdfire.cfalertdialog.views.CFPushButton;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CFAlertDialog extends AppCompatDialog {
+public class kkkkkkCFAlertDialog extends AppCompatDialog {
 
     // region Enums
 
